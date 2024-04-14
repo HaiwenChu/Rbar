@@ -1,7 +1,6 @@
 # Rbar
-Bar plots in R for visualizing student achievement data
-
-For summative achievement test results in four performance levels, this R code will create stacked bar charts in which the horizontal axis is at the level of proficiency.
+# Bar plots in R for visualizing student achievement data
+# For summative achievement test results in four performance levels, this R code will create stacked bar charts in which the horizontal axis is at the level of proficiency.
 
 colvec<-c("green","blue","red4","red1","white")
 levlab<-c("Exceeded","Met","Nearly Met", "Not Met", "")
